@@ -15,3 +15,4 @@ This is a Power BI project built using the Superstore dataset. It includes KPIs 
 ### 📷 Preview:
 <img width="891" height="505" alt="image" src="https://github.com/user-attachments/assets/5b04d883-2573-4195-af71-5f9c8dff03d0" />
 
+<img width="896" height="498" alt="image" src="https://github.com/user-attachments/assets/2261d401-3f41-4937-91eb-dd5b5dd2e034" />
