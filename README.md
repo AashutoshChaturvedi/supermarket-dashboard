@@ -6,7 +6,7 @@ This is a Power BI project built using the Superstore dataset. It includes KPIs 
 - Power BI
 - Data Cleaning in Power Query
 - DAX for Measures
-- Use of Drill down and drill through in my chart
+- Use of Drill down and drill through
 
 ### 📁 Files Included:
 - SuperMarket Dashboard.pbix
